@@ -142,9 +142,9 @@ Ad extensions are extra bits of information that you can show alongside your ads
 
 These enhanced Sitelink Extensions can draw attention to your ad by increasing its size. Only high-quality ads at the top of the search results page will trigger enhanced Sitelink Extensions, so make sure you add descriptions to high performing campaigns, such as your brand term campaigns. It might take some time for new campaigns to start showing Sitelinks Extensions due to the time required to build a history and quality score for the campaign.
 
-![](images/google%20ads/Aspose.Words.cfbe7e08-c68d-4c7c-a31e-21c70bb6c5e2.004.png)
-**
-` `When creating sitelinks, you want to make sure that they are relevant to the main search.
+             ![](images/google%20ads/Aspose.Words.cfbe7e08-c68d-4c7c-a31e-21c70bb6c5e2.004.png)
+
+When creating sitelinks, you want to make sure that they are relevant to the main search.
 
 - **Callout Extension :** Callout extensions are features you can add to your Google search ads to promote your business’s unique selling points and the benefits of your products or services.Each callout extension is limited to 25 characters, and it is recommended to keep each callout text below 15 characters to maximize the number of callouts served on each ad. Each ad can show 2-6 callouts in addition to your original ad copy.
 
