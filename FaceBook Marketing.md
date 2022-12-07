@@ -79,7 +79,7 @@ There are many tools to create amazing facebook cover images like photo Director
       1. A pinned post with your latest promotion, offer, or FAQ.
 
 
-# **What Should Post To Increase Your Page**
+# **What Should You Post To Increase Your Page**
 
 The decision to post on FacebookPage should depend on your business’s individual marketing goals.When your audience discovers you are  on the platform, you can work to develop a community of like-minded consumers and deepen the connection they have to your brand. When you engage with them, you’ll learn more about their likes and interests, making it easier for you to create content they’ll enjoy and interact with.
 
