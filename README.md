@@ -4,7 +4,7 @@ Digital marketing is the use of digital channels by vendors to market products a
 In this tutorial we will discuss all about the following topics
 
 * **Introduction**  
-   * [Introduction](https://github.com/ethioclicks/Marketing-Tutorials/blob/master/Introduction%20To%20DigitalMarketing.md)
+   ** [Introduction](https://github.com/ethioclicks/Marketing-Tutorials/blob/master/Introduction%20To%20DigitalMarketing.md) **
 * **Search Engine Optimization** 
     * [Search Engine Optimization](https://github.com/ethioclicks/Marketing-Tutorials/blob/master/Search%20Engine%20optimization.md)
 * **Google Ads** 
