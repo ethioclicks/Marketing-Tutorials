@@ -1,1 +1,1 @@
-#     ** TinyMCE Angular-14 Integration **
+#     **TinyMCE Angular-14 Integration**
